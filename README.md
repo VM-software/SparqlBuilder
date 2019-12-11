@@ -1,0 +1,2 @@
+# SparqlBuilder
+SPARQL queries generator
